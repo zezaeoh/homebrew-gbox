@@ -1,5 +1,5 @@
-class GBox < Formula
-  desc "GBox - use github as storage"
+class Gbox < Formula
+  desc "Gbox - use github as storage"
   homepage "https://github.com/zezaeoh/gbox"
   version "0.1.0"
 
